@@ -5,7 +5,7 @@
 ## Description
 
 
-L'exercice no.2 est le deuxi�me test formatif du cours "introduction � la programmation".
+L'exercice no.2 est le deuxième test formatif du cours "introduction à la programmation".
 =======
 
 
